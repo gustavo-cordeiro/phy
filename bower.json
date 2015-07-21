@@ -1,0 +1,18 @@
+{
+  "name": "phy",
+  "version": "0.0.0",
+  "authors": [
+    "Gustavo Cordeiro de Oliveira <oliv.dg@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4"
+  }
+}
